@@ -135,7 +135,7 @@ class _HomePageState extends State<HomePage> {
           )));
     }
 
-    // toogle camera
+    // toggle camera
     stackWidgetChildren.add(Positioned(
         top: size.height - 250,
         left: 0,
